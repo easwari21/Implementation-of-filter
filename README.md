@@ -30,8 +30,8 @@ End the program.
 </br> 
 
 ## Program
-### Developed By   :AJINA JOSHPIN 
-### Register Number:212223230008
+### Developed By : Easwari M
+### Register Number:212223240033
 </br>
 
 ### 1. Smoothing Filters
